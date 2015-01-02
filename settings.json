@@ -1,0 +1,28 @@
+{
+    "srcLocations": [
+        "../uhc_member/aarpmedicareplans",
+        "../uhc_member/uhcmedicaresolutions",
+        "../uhc_member/ui",
+        "../uhc_acquisition/aarpmedicareplans",
+        "../uhc_acquisition/ui",
+        "../uhc_acquisition/uhcmedicaresolutions",
+        "../uhc_framework/ui",
+        "../uhc_member/core",
+        "../uhc_framework/core",
+        "../uhc_acquisition/core"
+    ],
+    "pkgNames": [
+        "uhc-member-aarpmedicareplans",
+        "uhc-member-uhcmedicaresolutions",
+        "uhc-member-ui",
+        "uhc-acquisition-aarpmedicareplans",
+        "uhc-acquisition-ui",
+        "uhc-acquisition-uhcmedicaresolutions",
+        "framework-ui",
+        "jarfile",
+        "jarfile",
+        "jarfile"
+    ],
+    "mvnJars": "../../../../../CQ5/mvnJars/"
+}
+
